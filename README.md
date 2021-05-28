@@ -3,3 +3,8 @@
 - The aim of this project is to give consideration to using donations effectively and strategically
 - In addition, the project aims to provide recommendations for countries that are more eligible to receive aid donations
 - This project using Exploratory Data Analysis (EDA) techniques and Unsupervised Learning
+
+# Code and Resources :
+- Language : Python 3.4
+- Library : Pandas, Numpy, Matplotlib, Seaborn
+- Dataset : [](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
