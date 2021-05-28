@@ -7,4 +7,4 @@
 # Code and Resources :
 - Language : Python 3.4
 - Library : Pandas, Numpy, Matplotlib, Seaborn
-- Dataset : [](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
+- Dataset : [link dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
