@@ -6,5 +6,5 @@
 
 # Code and Resources :
 - Language : Python 3.7.3
-- Library : Pandas, Numpy, Matplotlib, Seaborn
+- Library : Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 - Dataset : [link dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
